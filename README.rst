@@ -1,4 +1,4 @@
-Django-Markdown v. 0.9.7
+Django-Markdown v. 0.9.7.1
 ========================
 
 .. _description:
@@ -31,7 +31,7 @@ Documentaton available at readthedocs_ or github_.
 Requirements
 ============
 
-- django >= 2.0, <3.0
+- django >= 2.0
 - markdown >= 2.6.11
 
 
@@ -51,6 +51,7 @@ Version compatibility
 ==============  ===================
 Django version  django-markdown-app
 ==============  ===================
+3.0 - 3.2       0.9.7.1
 2.0 - 2.2       0.9.7
 2.0 - 2.1       0.9.6
 1.8 or later    0.9.3.1
