@@ -37,7 +37,7 @@ install_requires = [l for l in _read('requirements.txt').split('\n')
 setup(
     name=_project,
     version=_version,
-    description=_read('DESCRIPTION'),
+    description=_read('DESCRIPTION').splitlines()[0],
     long_description=_read('README.rst'),
     license=_license,
 
