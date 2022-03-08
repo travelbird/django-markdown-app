@@ -19,3 +19,4 @@ todo.txt
 .pytest_cache/
 .eggs/
 django_markdown_app.egg-info/
+.idea

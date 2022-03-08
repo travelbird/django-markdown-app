@@ -1,3 +1,4 @@
+var jQuery = django.jQuery || jQuery;
 jQuery(function ($) {
     $('script.markItUpEditorConfig').each(function (i, config_element) {
         var config = JSON.parse(config_element.textContent);
